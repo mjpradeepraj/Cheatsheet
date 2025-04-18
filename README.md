@@ -1,9 +1,5 @@
 # Cheatsheet
 
-
- https://s4thv1k.com/posts/oscp-cheatsheet/
-
-
 # General
 
 
